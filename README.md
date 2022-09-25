@@ -1,0 +1,4 @@
+- A Master Student at Technische Universität Berlin.
+- Passionate about cutting-edge technologies in Geoinformation Technologies.
+- Enthusiastic to enhance my skills in GIS Point Clouds, Geo AI and 3d model production.
+- Conducting preliminary research for thesis regardin the quality of laser scanning point clouds and evaluating the performance of existing softwares used to create 3d models from point clouds.
